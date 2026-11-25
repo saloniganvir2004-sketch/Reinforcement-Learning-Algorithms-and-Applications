@@ -3,3 +3,4 @@ pandas
 matplotlib
 torch
 gymnasium[classic-control]
+networkx

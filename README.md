@@ -156,3 +156,33 @@ This notebook explores advanced Reinforcement Learning techniques, including fun
 
 Notebook: Reinforcement_Learning_Module_IV.ipynb
 
+
+# Module I: MDP Fundamentals and Bellman Equations
+
+This notebook covers the fundamentals of Markov Decision Processes and policy evaluation.
+
+## Implemented Concepts
+
+- MDP Environment Formulation
+- State and Action Representation
+- Transition and Reward Functions
+- State Transition Diagram
+- Bellman Expectation Equation
+- Iterative Policy Evaluation
+- State-Value Function
+- Action-Value Function
+- Policy Comparison
+- Stochastic MDP
+- Value Function Convergence Visualization
+
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- NetworkX
+- Google Colab / Jupyter Notebook
+
+Notebook: Reinforcement_Learning_Module_I_MDP_Fundamentals.ipynb
+
