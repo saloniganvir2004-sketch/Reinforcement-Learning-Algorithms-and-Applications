@@ -84,3 +84,75 @@ Reinforcement-Learning-Algorithms-and-Applications/
 5. Examine the SARSA and Q-Learning policies.
 6. Compare the learning performance of both algorithms.
 
+
+# Module IV: Function Approximation and Deep Reinforcement Learning
+
+This notebook explores advanced Reinforcement Learning techniques, including function approximation, eligibility traces, experience replay, and Deep Q-Networks.
+
+## Implemented Algorithms and Techniques
+
+### 1. Linear Function Approximation
+- State-value estimation using feature vectors.
+- Weight-based value prediction.
+
+### 2. Gradient Monte Carlo
+- Gradient-based value function updates.
+- Prediction error tracking.
+
+### 3. Semi-Gradient TD(0)
+- Temporal Difference learning with function approximation.
+- State-value updates using TD errors.
+
+### 4. Gradient MC vs TD(0)
+- Comparative learning analysis.
+- Mean squared error visualization.
+
+### 5. TD(lambda)
+- Eligibility trace implementation.
+- Comparison of different lambda values.
+- Analysis of eligibility trace effects.
+
+### 6. Action-Value Function Approximation
+- Q-value estimation using feature vectors.
+- Action selection based on estimated Q-values.
+
+### 7. Approximate Q-Learning
+- 3x3 Gridworld environment.
+- Epsilon-greedy action selection.
+- Approximate Q-value updates.
+
+### 8. Experience Replay
+- Replay buffer implementation.
+- Transition storage and random mini-batch sampling.
+
+### 9. Experience Replay Comparison
+- Learning with and without experience replay.
+- Rolling-average reward visualization.
+
+### 10. Deep Q-Network (DQN)
+- Neural network-based Q-value approximation.
+- Two hidden layers with 128 neurons each.
+- Target network implementation.
+- Experience replay buffer.
+- Adam optimization.
+- Smooth L1 loss.
+- Epsilon-greedy exploration.
+
+### 11. CartPole-v1 Environment
+- DQN training over 300 episodes.
+- Reward tracking.
+- Training loss visualization.
+- Epsilon decay analysis.
+
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- PyTorch
+- Gymnasium
+- Google Colab / Jupyter Notebook
+
+Notebook: Reinforcement_Learning_Module_IV.ipynb
+
