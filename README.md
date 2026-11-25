@@ -186,3 +186,46 @@ This notebook covers the fundamentals of Markov Decision Processes and policy ev
 
 Notebook: Reinforcement_Learning_Module_I_MDP_Fundamentals.ipynb
 
+
+# Practical: Markov Chains, Markov Reward Processes and Bellman Equations
+
+This practical implements Markov Chain modeling, examines the Markov Property, and computes state values using Markov Reward Processes and Bellman equations.
+
+## Implemented Concepts
+
+### Part I: Markov Chain and Markov Property
+- Weather Prediction Markov Chain
+- Weather State Representation
+- Transition Probability Matrix
+- Transition Matrix Validation
+- Markov Chain State Transition Diagram
+- Weather Sequence Simulation
+- Empirical Verification of the Markov Property
+
+### Part II: Markov Reward Process
+- MRP Formulation
+- State Reward Function
+- Discount Factor
+- Bellman Equation
+- NumPy Matrix-Based Value Computation
+- Iterative Bellman Updates
+- State-Value Convergence Visualization
+
+### Part III: Bellman Recursive Equation
+- Manual Bellman Value Calculation
+- Python-Based Bellman Computation
+- Numerical Verification
+- Direct Matrix Solution vs Iterative Solution
+
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- NetworkX
+- Google Colab
+- Jupyter Notebook
+
+Notebook: Markov_Chain_MRP_and_Bellman_Equation.ipynb
+
