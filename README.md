@@ -229,3 +229,35 @@ This practical implements Markov Chain modeling, examines the Markov Property, a
 
 Notebook: Markov_Chain_MRP_and_Bellman_Equation.ipynb
 
+
+# Tic-Tac-Toe Reinforcement Learning Agent
+
+## Project Overview
+
+Developed a Reinforcement Learning agent that learns to play Tic-Tac-Toe through repeated interaction with the environment using Tabular Q-Learning.
+
+## Implemented Concepts
+
+- Tic-Tac-Toe Environment Development
+- State and Action Representation
+- Reward Function Design
+- Q-Learning Algorithm
+- Epsilon-Greedy Action Selection
+- Exploration and Exploitation
+- Q-Table Training over 50,000 Episodes
+- Training Performance Visualisation
+- Agent Evaluation against Random Opponent
+- Random Agent vs Trained Agent Comparison
+- AI Gameplay Demonstration
+- Optional Human vs AI Gameplay
+
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Google Colab / Jupyter Notebook
+
+Notebook: Reinforcement_Learning_Agent_for_Tic_Tac_Toe.ipynb
+
